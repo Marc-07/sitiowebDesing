@@ -149,9 +149,9 @@ nav img{
 
 }
 
-/*Estilos segunda seccion (Nuestros Productos)*/
+/*Nuestros Programas*/
 
-.product{
+.programas{
     width: 80%;
     margin: auto;
     text-align: center;
@@ -177,7 +177,7 @@ p{
     justify-content: space-between;
 }
 
-.product-col{
+.programas-col{
     flex-basis: 31%;
     background: #f0e0e0;
     border-radius: 10px;
@@ -193,7 +193,7 @@ h3{
     margin: 15px 0;
 }
 
-.product-col:hover{
+.programas-col:hover{
     box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.267);
 }
 
