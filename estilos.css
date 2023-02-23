@@ -203,22 +203,22 @@ h3{
     }
 }
 
-/*Nuestro Campus*/
-.campus{
+/*Nuestras Sedess*/
+.sedes{
     width: 80%;
     margin: auto;
     text-align: center;
     padding-top: 50px;
 }
 
-.campus-col{
+.sedes-col{
     flex-basis: 32%;
     margin-bottom: 30px;
     position: relative;
     overflow: hidden;
 }
 
-.campus-col img{
+.sedes-col img{
     width: 100%;
     border-radius: 10px;
     display: block;
